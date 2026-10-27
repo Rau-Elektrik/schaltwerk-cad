@@ -21,6 +21,7 @@ Neue Versionen meldet das Programm selbst: oben im Fenster erscheint ein Hinweis
 
 ## Was es kann
 
+- **Ersteinrichtung**: Beim ersten Start führt das Programm durch deine Firmenstammdaten und dein Logo – mit Live-Vorschau des Schriftfelds – und lädt danach deinen ersten Grundriss.
 - **DXF und DWG öffnen** – ohne Zusatzprogramm. Der Grundriss bleibt als gesperrte, graue Unterlage unverändert.
 - **Symbole setzen** mit Wandfang: Steckdosen und Schalter rasten an der Wand ein und zeigen in den Raum. Objektfang, Raster, Reihe, Verschieben, Drehen, Spiegeln, unbegrenztes Rückgängig.
 - **Stromkreis, Höhe, Bemerkung, Artikelnummer** je Symbol, Beschriftung im Plan wahlweise knapp oder vollständig.
@@ -32,9 +33,9 @@ Neue Versionen meldet das Programm selbst: oben im Fenster erscheint ein Hinweis
 - **Eigener Firmenkopf**: Firmenname, Adresse und Logo im Schriftfeld – oder blanko.
 - **Export** als DXF/DWG mit echten Blöcken und Attributen und als JSON für den [Elektroplan-Skill](https://github.com/julayyt/elektroplan).
 
-| PDF mit Vorschau | Stückliste |
-|---|---|
-| ![PDF-Dialog](bilder/pdf.jpg) | ![Stückliste](bilder/stueckliste.jpg) |
+| Ersteinrichtung | PDF mit Vorschau | Stückliste |
+|---|---|---|
+| ![Ersteinrichtung](bilder/einrichtung.jpg) | ![PDF-Dialog](bilder/pdf.jpg) | ![Stückliste](bilder/stueckliste.jpg) |
 
 Alles Weitere steht in der **Kurzanleitung** (liegt jedem Release bei, im Programm mit <kbd>F1</kbd>).
 
