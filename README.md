@@ -30,6 +30,9 @@ Neue Versionen meldet das Programm selbst: oben im Fenster erscheint ein Hinweis
 - **Projekte mit mehreren Geschossen**, automatische Sicherung alle 2 Minuten, Wiederherstellung nach Absturz.
 - **Plan als PDF mit Vorschau**: A4/A3/A2, Maßstab oder „so groß wie möglich“, ganzer Plan, alle Symbole oder nur ein aufgezogener Bereich, Legende mit Stückzahlen, Mappe über alle Geschosse.
 - **Stückliste** der gesetzten Steckdosen, Schalter, Leuchten – gesamt, je Raum und je Stromkreis, zum Drucken oder als PDF.
+- **Stromlaufplan der Verteilung** (allpolig) direkt aus den Stromkreisen im Plan: Einspeisung, Hauptschalter, Schienen, FI mit LS, Abgangsklemmen – Vorschlag für FI-Belegung, LS und Phasen, in einer Tabelle anpassbar, als A3-PDF mit Schriftfeld. Geht auch ganz ohne Grundriss: Stromkreise selbst anlegen, sortieren, löschen.
+
+![Stromlaufplan der Verteilung](bilder/stromlaufplan.jpg)
 - **Eigener Firmenkopf**: Firmenname, Adresse und Logo im Schriftfeld – oder blanko.
 - **Export** als DXF/DWG mit echten Blöcken und Attributen und als JSON für den [Elektroplan-Skill](https://github.com/julayyt/elektroplan).
 
