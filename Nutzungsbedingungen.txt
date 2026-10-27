@@ -1,0 +1,50 @@
+Schaltwerk CAD – Nutzungsbedingungen
+====================================
+
+Schaltwerk CAD ist kostenlose Software (Freeware). © 2026 Julius Rau.
+
+1. Nutzung
+   Du darfst Schaltwerk CAD kostenlos privat und beruflich nutzen, auf beliebig
+   vielen Rechnern installieren und die mit dem Programm erstellten Pläne,
+   PDFs, Stücklisten und Exporte ohne Einschränkung verwenden und weitergeben.
+   Die Rechte an deinen Plänen bleiben bei dir.
+
+2. Weitergabe
+   Du darfst das unveränderte Setup bzw. die unveränderte Programmdatei
+   kostenlos weitergeben. Verkaufen, gegen Entgelt anbieten oder in ein
+   kostenpflichtiges Produkt einbauen ist nicht erlaubt. Die offizielle
+   Bezugsquelle ist https://github.com/Rau-Elektrik/schaltwerk-cad
+
+3. Keine Veränderung
+   Das Programm darf nicht verändert, zurückentwickelt (dekompiliert,
+   disassembliert) oder unter anderem Namen verbreitet werden, soweit das
+   Gesetz das nicht ausdrücklich erlaubt.
+
+4. Fachliche Verantwortung
+   Schaltwerk CAD ist ein Zeichenwerkzeug. Es ersetzt weder Fachplanung noch
+   Prüfung. Für Planung, Normkonformität (z. B. DIN 18015, DIN VDE 0100) und
+   Ausführung ist die verantwortliche Elektrofachkraft zuständig. Prüfe jeden
+   Plan vor der Verwendung.
+
+5. Gewährleistung und Haftung
+   Die Software wird kostenlos und so, wie sie ist, überlassen. Für Mängel
+   und Schäden wird nur bei Vorsatz und grober Fahrlässigkeit gehaftet sowie
+   bei Verletzung von Leben, Körper oder Gesundheit und nach dem
+   Produkthaftungsgesetz. Eine Pflicht zu Updates, Support oder Fehlerbehebung
+   besteht nicht.
+
+6. Datenschutz
+   Schaltwerk CAD verschickt keine Pläne oder persönlichen Daten. Beim Start
+   fragt es bei GitHub die neueste Versionsnummer ab (abschaltbar unter
+   Datei › Einstellungen › Allgemein › Updates). Dabei sieht GitHub wie bei
+   jedem Webseitenaufruf deine IP-Adresse; siehe die Datenschutzerklärung von
+   GitHub.
+
+7. Fremde Bestandteile
+   Das Programm enthält Open-Source-Bibliotheken unter eigenen Lizenzen,
+   aufgelistet in Drittanbieter.txt. Für diese Bestandteile gelten deren
+   Lizenzbedingungen.
+
+8. Schlussbestimmungen
+   Es gilt deutsches Recht. Sollte eine Bestimmung unwirksam sein, bleiben
+   die übrigen wirksam.
