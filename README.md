@@ -23,7 +23,7 @@ Neue Versionen meldet das Programm selbst: oben im Fenster erscheint ein Hinweis
 
 - **Ersteinrichtung**: Beim ersten Start führt das Programm durch deine Firmenstammdaten und dein Logo – mit Live-Vorschau des Schriftfelds – und lädt danach deinen ersten Grundriss.
 - **DXF und DWG öffnen** – ohne Zusatzprogramm. Der Grundriss bleibt als gesperrte, graue Unterlage unverändert.
-- **Symbole setzen** mit Wandfang: Steckdosen und Schalter rasten an der Wand ein und zeigen in den Raum. Objektfang, Raster, Reihe, Verschieben, Drehen, Spiegeln, unbegrenztes Rückgängig.
+- **Symbole setzen** mit Wandfang: Steckdosen und Schalter rasten an der Wand ein und zeigen in den Raum. Objektfang, Raster, Reihe, Verschieben, Drehen, Spiegeln, unbegrenztes Rückgängig. Den Plan schiebst du mit gedrückter Maustaste auf einer leeren Stelle.
 - **Stromkreis, Höhe, Bemerkung, Artikelnummer** je Symbol, Beschriftung im Plan wahlweise knapp oder vollständig.
 - **Räume per Klick** mit Fläche – die Symbole im Raum werden automatisch zugeordnet.
 - **Bemaßung**, Kettenmaß, Höhenkote, Text, Hinweislinie, Revisionswolke.
