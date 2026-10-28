@@ -17,7 +17,7 @@ Grundriss vom Architekten öffnen, Steckdosen, Schalter, Leuchten und Melder nac
 - Windows 10/11, 64 Bit. Kein Konto, kein Abo.
 - Beim ersten Start warnt Windows eventuell („Der Computer wurde durch Windows geschützt“), weil das Programm nicht signiert ist: *Weitere Informationen › Trotzdem ausführen*.
 
-Neue Versionen meldet das Programm selbst: oben im Fenster erscheint ein Hinweis mit *Jetzt herunterladen*.
+Updates kommen von selbst (ab Version 1.5.0): Das Programm lädt eine neue Version im Hintergrund und prüft sie, dann erscheint oben *Update bereit – Jetzt neu starten*. Ohne Klick wird beim Schließen installiert. Die portable EXE zeigt stattdessen einen Hinweis mit *Jetzt herunterladen*.
 
 ## Was es kann
 
